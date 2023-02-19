@@ -1,5 +1,5 @@
 # odin-recipes
-This project is implemented using,
+This project is implemented using
 headings,
 paragraphs,
 lists,
